@@ -1,6 +1,6 @@
 # Page Flipper
 
-![Page Flipper Logo](/path/to/logo.jpg)
+![Page Flipper Logo](/Path/to/logo.jpg)
 
 Page Flipper is a Kotlin-based app that allows users to easily flip through pages of a document or book, providing a seamless reading experience. This app is designed to be intuitive, visually appealing, and highly customizable.
 
